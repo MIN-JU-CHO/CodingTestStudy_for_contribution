@@ -17,4 +17,4 @@ for i in range(100):
   result += sum(paper[i])
 print(result)
 
-# Q. How can we use mathematical algorithms?
+# Q. How can we use mathematical algorithms? 
