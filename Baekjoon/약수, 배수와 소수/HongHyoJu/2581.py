@@ -22,5 +22,8 @@ for i in range(M, N+1):
     if is_Prime(i):
         arr.append(i)
 
-print(sum(arr))
-print(min(arr))
+if len(arr) > 0:
+    print(sum(arr))
+    print(arr[0])
+else:
+    print(-1)
