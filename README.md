@@ -11,8 +11,8 @@
 | --- | --- | --- | --- | --- |
 | 2023.05.31 | 1546 | 평균 | [1차원 배열](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4) | [백준 문제 링크](https://www.acmicpc.net/problem/1546) |
 | 2023.05.31 | 2563 | 색종이 | [2차원 배열](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4) | [백준 문제 링크](https://www.acmicpc.net/problem/2563) |
-| 2023.06.07 | 11653 | 소인수분해 | 약수, 배수와 소수 | [백준 문제 링크](https://www.acmicpc.net/problem/11653) |
-| 2023.06.07 | 4134 | 다음 소수 | 약수, 배수와 소수2 | [백준 문제 링크](https://www.acmicpc.net/problem/4134) |
+| 2023.06.07 | 11653 | 소인수분해 | [약수, 배수와 소수](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%95%BD%EC%88%98%2C%20%EB%B0%B0%EC%88%98%EC%99%80%20%EC%86%8C%EC%88%98) | [백준 문제 링크](https://www.acmicpc.net/problem/11653) |
+| 2023.06.07 | 4134 | 다음 소수 | [약수, 배수와 소수2](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%95%BD%EC%88%98%2C%20%EB%B0%B0%EC%88%98%EC%99%80%20%EC%86%8C%EC%88%98%202) | [백준 문제 링크](https://www.acmicpc.net/problem/4134) |
 
 <br/>
   
