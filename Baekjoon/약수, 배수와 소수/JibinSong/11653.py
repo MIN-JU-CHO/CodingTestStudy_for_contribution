@@ -11,7 +11,7 @@ for i in range(2, n + 1):
 ### version2 ###
 n = int(input())
 
-for i in range(2, int(n**0.5) + 2):
+for i in range(2, int(n**0.5) + 1):
   if n == 1:
     break
   while n % i == 0:
