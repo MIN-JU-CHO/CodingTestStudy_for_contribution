@@ -17,8 +17,10 @@
 | 2023.06.14 | 2839 | 설탕 배달 | [브루트 포스](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4) | [백준 문제 링크](https://www.acmicpc.net/problem/2839) |
 | 2023.06.21 | 18870 | 좌표 압축 | [정렬](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%A0%95%EB%A0%AC) | [백준 문제 링크](https://www.acmicpc.net/problem/18870) |
 | 2023.06.21 | 1010 | 다리 놓기 | [조합론](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%A1%B0%ED%95%A9%EB%A1%A0) | [백준 문제 링크](https://www.acmicpc.net/problem/1010) |
-| 2023.07.05 | 4949 | 균형잡힌 세상 | 스택 | [백준 문제 링크](https://www.acmicpc.net/problem/4949) |
-| 2023.07.05 | 1021 | 회전하는 큐 | 큐 | [백준 문제 링크](https://www.acmicpc.net/problem/1021) |
+| 2023.07.05 | 4949 | 균형잡힌 세상 | [스택](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%8A%A4%ED%83%9D) | [백준 문제 링크](https://www.acmicpc.net/problem/4949) |
+| 2023.07.05 | 1021 | 회전하는 큐 | [큐](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%ED%81%90) | [백준 문제 링크](https://www.acmicpc.net/problem/1021) |
+| 2023.07.12 | 2447 | 별 찍기 - 10 | 재귀 | [백준 문제 링크](https://www.acmicpc.net/problem/2447) |
+| 2023.07.12 | 11729 | 하노이 탑 이동 순서 | 재귀 | [백준 문제 링크](https://www.acmicpc.net/problem/11729) |
 
 
 <br/>
