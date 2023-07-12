@@ -1,3 +1,4 @@
+# https://thinking-developer.tistory.com/158
 N = int(input())
 print(2 ** N - 1)
 
