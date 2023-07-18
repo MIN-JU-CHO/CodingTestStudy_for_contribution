@@ -19,8 +19,10 @@
 | 2023.06.21 | 1010 | 다리 놓기 | [조합론](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%A1%B0%ED%95%A9%EB%A1%A0) | [백준 문제 링크](https://www.acmicpc.net/problem/1010) |
 | 2023.07.05 | 4949 | 균형잡힌 세상 | [스택](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%8A%A4%ED%83%9D) | [백준 문제 링크](https://www.acmicpc.net/problem/4949) |
 | 2023.07.05 | 1021 | 회전하는 큐 | [큐](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%ED%81%90) | [백준 문제 링크](https://www.acmicpc.net/problem/1021) |
-| 2023.07.12 | 2447 | 별 찍기 - 10 | 재귀 | [백준 문제 링크](https://www.acmicpc.net/problem/2447) |
-| 2023.07.12 | 11729 | 하노이 탑 이동 순서 | 재귀 | [백준 문제 링크](https://www.acmicpc.net/problem/11729) |
+| 2023.07.12 | 2447 | 별 찍기 - 10 | [재귀](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%9E%AC%EA%B7%80) | [백준 문제 링크](https://www.acmicpc.net/problem/2447) |
+| 2023.07.12 | 11729 | 하노이 탑 이동 순서 | [재귀](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%9E%AC%EA%B7%80) | [백준 문제 링크](https://www.acmicpc.net/problem/11729) |
+| 2023.07.19 | 24060 | 알고리즘 수업 - 병합 정렬 1 | [재귀](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%9E%AC%EA%B7%80) | [백준 문제 링크](https://www.acmicpc.net/problem/24060) |
+| 2023.07.19 | 4779 | 칸토어 집합 | [재귀](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%9E%AC%EA%B7%80) | [백준 문제 링크](https://www.acmicpc.net/problem/4779) |
 
 
 <br/>
