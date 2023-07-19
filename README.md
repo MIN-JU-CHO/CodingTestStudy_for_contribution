@@ -1,4 +1,4 @@
-# ⭐ 2023 CodingTest Study ⭐
+# ✨ 2023 CodingTest Study ✨
 
 ### 📌 스터디 소개
 * 매주 온라인 저지 백준의 [단계별로 풀어보기](https://www.acmicpc.net/step)에서 한 단계씩 대표 문제를 정하여 함께 문제를 풀고, 각자의 풀이 방법을 공유
@@ -23,6 +23,9 @@
 | 2023.07.12 | 11729 | 하노이 탑 이동 순서 | [재귀](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%9E%AC%EA%B7%80) | [백준 문제 링크](https://www.acmicpc.net/problem/11729) |
 | 2023.07.19 | 24060 | 알고리즘 수업 - 병합 정렬 1 | [재귀](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%9E%AC%EA%B7%80) | [백준 문제 링크](https://www.acmicpc.net/problem/24060) |
 | 2023.07.19 | 4779 | 칸토어 집합 | [재귀](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%9E%AC%EA%B7%80) | [백준 문제 링크](https://www.acmicpc.net/problem/4779) |
+| 2023.07.26 | 9663 | N-Queen | 백트래킹 | [백준 문제 링크](https://www.acmicpc.net/problem/9663) |
+| 2023.07.26 | 14888 | 연산자 끼워넣기 | 백트래킹 | [백준 문제 링크](https://www.acmicpc.net/problem/14888) |
+
 
 
 <br/>
