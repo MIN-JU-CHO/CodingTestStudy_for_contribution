@@ -21,7 +21,7 @@ for i in range(4):
 combs_opers = list(permutations(operators, N-1))
 
 # 모든 경우 값 구해, 최소 최대 구하기
-maximum = 0
+maximum = int(-1e9)
 minimum = int(1e9)
 for opers in combs_opers:
     temp = nums[0]
@@ -37,10 +37,7 @@ for opers in combs_opers:
             temp *= nums[i]
             #print('*', nums[i], end = ' ')
         elif opers[i-1] == '/':
-            if temp < 0:
-                temp = (-temp) // nums[i]
-            else:
-                temp = temp // nums[i]
+            temp = int(temp/nums[i])
             #print('/', nums[i], end = ' ')
     #print(' =', temp)
     if temp > maximum:
