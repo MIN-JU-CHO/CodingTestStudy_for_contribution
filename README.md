@@ -23,8 +23,14 @@
 | 2023.07.12 | 11729 | 하노이 탑 이동 순서 | [재귀](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%9E%AC%EA%B7%80) | [백준 문제 링크](https://www.acmicpc.net/problem/11729) |
 | 2023.07.19 | 24060 | 알고리즘 수업 - 병합 정렬 1 | [재귀](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%9E%AC%EA%B7%80) | [백준 문제 링크](https://www.acmicpc.net/problem/24060) |
 | 2023.07.19 | 4779 | 칸토어 집합 | [재귀](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EC%9E%AC%EA%B7%80) | [백준 문제 링크](https://www.acmicpc.net/problem/4779) |
-| 2023.07.26 | 9663 | N-Queen | 백트래킹 | [백준 문제 링크](https://www.acmicpc.net/problem/9663) |
-| 2023.07.26 | 14888 | 연산자 끼워넣기 | 백트래킹 | [백준 문제 링크](https://www.acmicpc.net/problem/14888) |
+| 2023.07.26 | 9663 | N-Queen | [백트래킹](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9) | [백준 문제 링크](https://www.acmicpc.net/problem/9663) |
+| 2023.07.26 | 14888 | 연산자 끼워넣기 | [백트래킹](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9) | [백준 문제 링크](https://www.acmicpc.net/problem/14888) |
+| 2023.08.16 | 14889 | 스타트와 링크 | [백트래킹](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9) | [백준 문제 링크](https://www.acmicpc.net/problem/14889) |
+| 2023.08.16 | 2580 | 스도쿠 | [백트래킹](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9) | [백준 문제 링크](https://www.acmicpc.net/problem/2580) |
+| 2023.08.16 | 1149 | RGB거리 | 동적 계획법1 | [백준 문제 링크](https://www.acmicpc.net/problem/1149) |
+| 2023.08.16 | 11053 | 가장 긴 증가하는 부분 수열 | 동적 계획법1 | [백준 문제 링크](https://www.acmicpc.net/problem/11053) |
+
+
 
 
 
