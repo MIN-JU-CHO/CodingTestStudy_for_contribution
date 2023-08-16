@@ -1,3 +1,5 @@
+https://ji-gwang.tistory.com/260
+
 N = int(input())
 S = [list(map(int, input().split())) for _ in range(N)]
 visited = [False] * (N + 1)
