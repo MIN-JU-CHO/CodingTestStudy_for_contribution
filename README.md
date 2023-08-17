@@ -30,9 +30,10 @@
 | 2023.07.26 | 14888 | 연산자 끼워넣기 | [백트래킹](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9) | [백준 문제 링크](https://www.acmicpc.net/problem/14888) |
 | 2023.08.16 | 14889 | 스타트와 링크 | [백트래킹](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9) | [백준 문제 링크](https://www.acmicpc.net/problem/14889) |
 | 2023.08.16 | 2580 | 스도쿠 | [백트래킹](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9) | [백준 문제 링크](https://www.acmicpc.net/problem/2580) |
-| 2023.08.16 | 1149 | RGB거리 | 동적 계획법1 | [백준 문제 링크](https://www.acmicpc.net/problem/1149) |
-| 2023.08.16 | 11053 | 가장 긴 증가하는 부분 수열 | 동적 계획법1 | [백준 문제 링크](https://www.acmicpc.net/problem/11053) |
-
+| 2023.08.16 | 1149 | RGB거리 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/1149) |
+| 2023.08.16 | 11053 | 가장 긴 증가하는 부분 수열 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/11053) |
+| 2023.08.23 | 2579 | 계단 오르기 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/2579) |
+| 2023.08.23 | 2156 | 포도주 시식 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/2156) |
 
 
 
