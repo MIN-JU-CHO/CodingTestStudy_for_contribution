@@ -34,6 +34,9 @@
 | 2023.08.16 | 11053 | 가장 긴 증가하는 부분 수열 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/11053) |
 | 2023.08.23 | 2579 | 계단 오르기 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/2579) |
 | 2023.08.23 | 2156 | 포도주 시식 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/2156) |
+| 2023.08.30 | 9461 | 파도반 수열 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/9461) |
+| 2023.08.30 | 12865 | 평범한 배낭 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/12865) |
+
 
 
 
