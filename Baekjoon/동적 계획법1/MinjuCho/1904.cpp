@@ -15,5 +15,5 @@ int main(void)
 	{
 		dp[i] = (dp[i - 2] + dp[i - 1])  % 15746;
 	}
-	printf("%lld", dp[N] % 15746);
+	printf("%lld", dp[N]);
 }
