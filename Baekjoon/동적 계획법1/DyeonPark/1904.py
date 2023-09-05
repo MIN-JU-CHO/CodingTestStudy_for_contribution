@@ -1,3 +1,6 @@
+# time over -> solved : 3~40m
+# https://thinking-developer.tistory.com/170
+
 # for 문 이용 및 수학계산에 따른 접근 : 시간 초과 풀이
 import math
 
