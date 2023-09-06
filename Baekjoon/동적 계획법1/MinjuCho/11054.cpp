@@ -1,3 +1,4 @@
+// 문제 해설 링크: https://velog.io/@cuppizza/백준-11054-가장-긴-바이토닉-부분-수열-파이썬-C
 #include <iostream>
 #include <vector>
 #include <algorithm>
