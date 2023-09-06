@@ -1,3 +1,4 @@
+// 문제 해설 링크 : https://velog.io/@cuppizza/백준-1904-01타일-파이썬-C
 #include <cstdio>
 #include <vector>
 using namespace std;
