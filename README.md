@@ -38,7 +38,8 @@
 | 2023.08.30 | 12865 | 평범한 배낭 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/12865) |
 | 2023.09.06 | 1904 | 01타일 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/1904) |
 | 2023.09.06 | 11054 | 가장 긴 바이토닉 부분 수열 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/11054) |
-
+| 2023.09.13 | 1912 | 연속합 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/1912) |
+| 2023.09.13 | 2565 | 전깃줄 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/2565) |
 
 
 
