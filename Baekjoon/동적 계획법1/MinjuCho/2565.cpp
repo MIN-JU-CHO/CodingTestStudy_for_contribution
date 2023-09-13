@@ -1,3 +1,4 @@
+// 문제 해설 링크: https://velog.io/@cuppizza/백준-2565-전깃줄-파이썬-C
 #include <iostream>
 #include <algorithm>
 
@@ -8,7 +9,7 @@ int main(void)
 	int N;
 	cin >> N;
 
-	// B �迭 0 ~ 500 ���� 501�� �ʱ�ȭ
+	// B 배열 0 ~ 500 전부 501로 초기화
 	int a, b, B[501];
 	fill_n(B, 501, 501);
 	for (int i = 0; i < N; ++i)
@@ -17,7 +18,7 @@ int main(void)
 		B[a] = b;
 	}
 
-	// dp �迭 0 ~ 500 ���� 1�� �ʱ�ȭ
+	// dp 배열 0 ~ 500 전부 1로 초기화
 	int dp[501];
 	fill_n(dp, 501, 1);
 	for (int a = 1; a < 501; ++a)
@@ -26,7 +27,7 @@ int main(void)
 		{
 			if (B[j] < B[a] && B[a] != 501)
 			{
-				// �Ȱ�ġ�� ��� ã��
+				// 안겹치는 경우 찾기
 				dp[a] = max(dp[j] + 1, dp[a]);
 			}
 		}

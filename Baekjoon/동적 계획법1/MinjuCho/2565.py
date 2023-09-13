@@ -1,3 +1,4 @@
+# 문제 해설 링크: https://velog.io/@cuppizza/백준-2565-전깃줄-파이썬-C
 import sys
 input = sys.stdin.readline
 B = [501] * 501
