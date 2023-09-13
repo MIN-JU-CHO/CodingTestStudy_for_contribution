@@ -1,6 +1,5 @@
 import sys
 input = sys.stdin.readline
-A = [i for i in range(501)]
 B = [501] * 501
 dp = [1] * 501
 
