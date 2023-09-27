@@ -1,4 +1,4 @@
-# 풀이 참고 링크: https://velog.io/@cuppizza/백준-9251-LCS-파이썬-C
+# 문제 풀이 링크: https://velog.io/@cuppizza/백준-9251-LCS-파이썬-C
 import sys
 input = sys.stdin.readline
 A = ' ' + input().strip()
