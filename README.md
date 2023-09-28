@@ -40,8 +40,11 @@
 | 2023.09.06 | 11054 | 가장 긴 바이토닉 부분 수열 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/11054) |
 | 2023.09.13 | 1912 | 연속합 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/1912) |
 | 2023.09.13 | 2565 | 전깃줄 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/2565) |
-| 2023.09.20 | 10844 | 쉬운 계단 수 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/10844) |
-| 2023.09.20 | 9251 | LCS | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/9251) |
+| 2023.10.04 | 10844 | 쉬운 계단 수 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/10844) |
+| 2023.10.04 | 9251 | LCS | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/9251) |
+| 2023.10.04 | 2630 | 색종이 | 분할정복 | [백준 문제 링크](https://www.acmicpc.net/problem/2630) |
+| 2023.10.04 | 1992 | 쿼드트리 | 분할정복 | [백준 문제 링크](https://www.acmicpc.net/problem/1992) |
+
 
 
 <br/>
