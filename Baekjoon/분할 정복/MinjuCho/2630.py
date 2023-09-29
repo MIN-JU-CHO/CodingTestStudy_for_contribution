@@ -10,13 +10,13 @@ counts = [0, 0]
 def div_half(x, y, n):
     half = int(n/2)
     if n == 1:
-        counts[paper[x][y]]+=1
+        counts[paper[y][x]]+=1
         return
     else:
-        pivot = paper[x][y]
+        pivot = paper[y][x]
         isPivot = True
-        for i in range(x, x+n):
-            for j in range(y, y+n):
+        for i in range(y, y+n):
+            for j in range(x, x+n):
                 if paper[i][j] != pivot:
                     isPivot = False
                     break
@@ -28,7 +28,7 @@ def div_half(x, y, n):
             div_half(x, y+half, half)
             div_half(x+half, y+half, half)
         else:
-            counts[paper[x][y]]+=1
+            counts[paper[y][x]]+=1
             return
 
 div_half(0,0,N)

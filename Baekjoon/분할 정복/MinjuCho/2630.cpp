@@ -11,15 +11,15 @@ void div_half(int x, int y, int n)
 {
 	if (n == 1)
 	{
-		++counts[paper[x][y]];
+		++counts[paper[y][x]];
 	}
 	else
 	{
-		int pivot = paper[x][y];
+		int pivot = paper[y][x];
 		bool isPivot = true;
-		for (int i = x; i < x + n; ++i)
+		for (int i = y; i < y + n; ++i)
 		{
-			for (int j = y; j < y + n; ++j)
+			for (int j = x; j < x + n; ++j)
 			{
 				if (paper[i][j] != pivot)
 				{
@@ -34,7 +34,7 @@ void div_half(int x, int y, int n)
 		}
 		if (isPivot)
 		{
-			++counts[paper[x][y]];
+			++counts[paper[y][x]];
 			return;
 		}
 		else
