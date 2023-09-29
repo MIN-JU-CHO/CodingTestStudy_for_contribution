@@ -1,5 +1,5 @@
 # 소요 시간: 56m (2차원 DP)
-# 풀이: 
+# 풀이: https://thinking-developer.tistory.com/173
 # 참고여부: 풀이 원리만 참고
 
 # (방식 1) 2차원 DP를 이용한 방법
@@ -36,8 +36,8 @@ for b in range(len(B)):
   for a in range(len(A)):
     # 먼저 같은지 비교하면 같은 글자가 연속으로 나왔을 때 카운팅이 안됨
     # 반례
-    # XXXXXF
-    # XFXXXQ
+    # ex1. XXXXXF / XFXXXQ
+    # ex2. AAAY / YAAA
     # if A[a] == B[b]:
     #   acc_sum[a] = cnt + 1
     # else:
