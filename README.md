@@ -42,9 +42,10 @@
 | 2023.09.13 | 2565 | 전깃줄 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/2565) |
 | 2023.10.04 | 10844 | 쉬운 계단 수 | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/10844) |
 | 2023.10.04 | 9251 | LCS | [동적 계획법1](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%951) | [백준 문제 링크](https://www.acmicpc.net/problem/9251) |
-| 2023.10.04 | 2630 | 색종이 | 분할정복 | [백준 문제 링크](https://www.acmicpc.net/problem/2630) |
-| 2023.10.04 | 1992 | 쿼드트리 | 분할정복 | [백준 문제 링크](https://www.acmicpc.net/problem/1992) |
-
+| 2023.10.04 | 2630 | 색종이 | [분할정복](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5) | [백준 문제 링크](https://www.acmicpc.net/problem/2630) |
+| 2023.10.04 | 1992 | 쿼드트리 | [분할정복](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5) | [백준 문제 링크](https://www.acmicpc.net/problem/1992) |
+| 2023.10.11 | 1780 | 종이의 개수 | [분할정복](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5) | [백준 문제 링크](https://www.acmicpc.net/problem/1780) |
+| 2023.10.11 | 1629 | 곱셈 | [분할정복](https://github.com/DyeonPark/2023_CodingTest_Study/tree/main/Baekjoon/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5) | [백준 문제 링크](https://www.acmicpc.net/problem/1629) |
 
 
 <br/>
@@ -54,4 +55,4 @@
 - [박동연](https://github.com/DyeonPark) | yeon0729@sookmyung.ac.kr
 - [송지빈](https://github.com/jibin86) |  sjbpsh1@sookmyung.ac.kr
 - [조민주](https://github.com/MIN-JU-CHO) | ehdnf99@sookmyung.ac.kr
-- [홍효주](https://github.com/HongHyoJu) | hyojuhong1201@gmail.com
+- (~10/4)[홍효주](https://github.com/HongHyoJu) | hyojuhong1201@gmail.com
