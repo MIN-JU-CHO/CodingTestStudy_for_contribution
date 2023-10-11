@@ -5,7 +5,34 @@
 # 참고 페이지: https://velog.io/@gidskql6671/%EB%82%98%EB%A8%B8%EC%A7%80Modulo-%EC%97%B0%EC%82%B0-%EB%B6%84%EB%B0%B0%EB%B2%95%EC%B9%99
 
 # 첫 번째 풀이
+# 참고 페이지: https://nerogarret.tistory.com/55
+import sys
 
+def input():
+  return sys.stdin.readline().rstrip()
+
+A, B, C = map(int, input().split())
+
+def divied_n_conquer(a, b):
+  div = []
+  while b > 1:
+    if b % 2:
+      div.append(1)
+    else:
+      div.append(0)
+    b = b // 2
+
+  return list(reversed(div))
+
+D = A % C
+result = A % C
+for i in divied_n_conquer(A, B):
+  if i == 1:
+    result = (result ** 2 * D) % C
+  else:
+    result = (result ** 2) % C
+    
+print(result)
 
 # 두 번째 풀이
 # 참고 페이지: https://velog.io/@ledcost/%EB%B0%B1%EC%A4%80-1629-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B3%B1%EC%85%88-%EC%8B%A4%EB%B2%841-%EB%B6%84%ED%95%A0-%EC%A0%95%EB%B3%B5
